@@ -1,0 +1,6 @@
+2026-05-02 21:32:51 Email invalido
+2026-05-02 21:32:51 Reserva procesada correctamente
+2026-05-02 21:32:51 Proceso de reserva finalizado
+2026-05-02 21:32:51 Error en reserva Tiempo de reserva invalido
+2026-05-02 21:32:51 Proceso de reserva finalizado
+2026-05-02 21:32:51 Tiempo de reserva invalido
